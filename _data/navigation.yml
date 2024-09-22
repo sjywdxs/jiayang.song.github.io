@@ -16,7 +16,7 @@ main:
     url: /service/  
     
   - title: "CV"
-    url: /cv/
+    url: files/Jiayang_CV.pdf
 
   - title: "Misc."
     url: /misc/
