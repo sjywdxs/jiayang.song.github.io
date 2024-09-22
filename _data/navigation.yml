@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /Home/
+    url: http://jiayangsong.me/
     
   - title: "Publications"
     url: /publications/
@@ -13,13 +13,13 @@ main:
     url: /teaching/    
 
   - title: "Service"
-    url: /Service/  
+    url: /service/  
     
   - title: "CV"
     url: /cv/
 
   - title: "Misc."
-    url: /Misc./
+    url: /misc/
     
   # - title: "Portfolio"
   #   url: /portfolio/
