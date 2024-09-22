@@ -29,8 +29,17 @@ My primary research directions are oriented on quality, safety and security assu
 
 Selected Publications
 ======
+![ai-cps-benchmark](/images/ai-cps-benchmark.jpg)
 
+#### **When cyber-physical systems meet AI: a benchmark, an evaluation, and a way forward**
 
+**Jiayang Song**, Deyun Lyu, Zhenya Zhang, Zhijie Wang, Tianyi Zhang, and Lei Ma.
+
+ICSE 2023
+
+<!-- Code generation LLMs may not think the problem as you thought. In this paper, we made the first attempt to bridge this knowledge gap by investigating whether LLMs attend to the same parts of a task description as human programmers during code generation. -->
+
+<!-- [PDF](#) [Code](#) -->
 
 <!-- Service
 ======
